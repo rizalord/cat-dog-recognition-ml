@@ -1,2 +1,2 @@
 # cat-dog-recognition-ml
-This model is not 100& accurate
+This model is not 100% accurate
